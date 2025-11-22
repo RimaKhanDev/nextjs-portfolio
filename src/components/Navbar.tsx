@@ -1,8 +1,8 @@
 "use client";
 import { useEffect, useRef, useState } from "react";
+import { cn } from "@/utils";
 import Link from "next/link";
 import { IoClose, IoMenu } from "react-icons/io5";
-import { cn } from "@/utils";
 
 const menuItems = [
   { name: "Home", path: "#home" },
@@ -53,7 +53,7 @@ const Navbar = () => {
         {/* Logo */}
         <Link href="#home" className="flex items-center gap-2">
           <h1 className="text-xl md:text-2xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-purple-600 via-blue-500 to-indigo-600">
-            Azhar.
+            Rima.
           </h1>
         </Link>
 
@@ -97,7 +97,7 @@ const Navbar = () => {
         >
           <div className="flex flex-col items-start px-6 py-6 gap-6">
             <h2 className="text-xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-purple-600 via-blue-500 to-indigo-600">
-              Azhar Mahmud
+              Rima Khatun
             </h2>
             {menuItems.map((item) => (
               <a

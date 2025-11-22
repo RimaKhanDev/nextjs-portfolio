@@ -21,11 +21,11 @@ const Banner = () => {
           className="text-center md:text-left max-w-xl"
         >
           <h1 className="text-4xl md:text-5xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-indigo-700 via-blue-600 to-purple-600">
-            Hi, I’m Azhar Mahmud
+            Hi, I’m Rima khatun
           </h1>
 
           <p className="text-lg font-semibold text-transparent bg-clip-text bg-gradient-to-r from-indigo-700 via-blue-600 to-purple-600">
-            azharmahmud730@gmail.com
+            rimakhan6161@gmail.com
           </p>
 
           <h2 className="text-3xl md:text-4xl font-extrabold mt-4 bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 text-transparent bg-clip-text">
@@ -57,7 +57,7 @@ const Banner = () => {
 
           <div className="mt-6">
             <a
-              href="/azhar_mahmud.pdf"
+              href="/"
               download
               className="inline-flex items-center gap-2 px-6 py-3 font-semibold text-white bg-gradient-to-r from-indigo-600 via-blue-500 to-purple-600 rounded-xl shadow-lg hover:scale-105 hover:shadow-xl transition-all duration-300"
             >
@@ -79,8 +79,8 @@ const Banner = () => {
               <Image
                 height={400}
                 width={400}
-                src="https://i.postimg.cc/nVB5R8Hs/profile-img.png"
-                alt="Azhar Mahmud"
+                src="/rima.jpg"
+                alt="rima pic"
                 className="w-full h-full object-cover rounded-full shadow-inner"
               />
             </div>

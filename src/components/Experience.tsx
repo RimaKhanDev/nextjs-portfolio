@@ -11,8 +11,8 @@ const experienceList = [
   },
   {
     role: "Intern - Web Developer",
-    company: "ABC Software Company",
-    period: "Oct 2024 - Dec 2024",
+    company: "Creative IT Institute",
+    period: "July 2024 - Dec 2024",
     details:
       "Worked on internal dashboard using Next.js and TypeScript. Implemented authentication, chart visualizations, and API integration.",
   },

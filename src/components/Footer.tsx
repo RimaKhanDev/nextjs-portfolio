@@ -21,7 +21,7 @@ const Footer = () => {
         className="max-w-6xl mx-auto px-4 flex flex-col items-center space-y-6 text-center"
       >
         <h2 className="text-3xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-indigo-600 via-purple-600 to-blue-600">
-          Azhar Mahmud
+         Rima khatun
         </h2>
         <p className="text-sm text-gray-700">
           Diploma in Computer Science | Next Level Web Developer
@@ -31,13 +31,13 @@ const Footer = () => {
         </p>
         <div className="flex flex-col sm:flex-row sm:items-center sm:gap-8 gap-4 text-sm text-gray-700">
           <p className="flex items-center gap-2">
-            <FaEnvelope className="text-red-500" /> azharmahmud730@gmail.com
+            <FaEnvelope className="text-red-500" /> rimakhan6161@gmail.com
           </p>
           <p className="flex items-center gap-2">
-            <FaPhone className="text-green-600" /> 01954973740
+            <FaPhone className="text-green-600" /> 01996547161
           </p>
           <p className="flex items-center gap-2">
-            <FaMapMarkerAlt className="text-blue-500" /> Narsingdi, Dhaka,
+            <FaMapMarkerAlt className="text-blue-500" />Jessore,Khulna
             Bangladesh
           </p>
         </div>
@@ -49,7 +49,7 @@ const Footer = () => {
           className="flex gap-6 text-2xl mt-2"
         >
           <a
-            href="https://github.com/Azhar730"
+            href="https://github.com/RimaKhanDev"
             target="_blank"
             rel="noopener noreferrer"
             className="text-[#333] hover:scale-110 transition"
@@ -57,7 +57,7 @@ const Footer = () => {
             <FaGithub />
           </a>
           <a
-            href="https://www.linkedin.com/in/azhar-mahmud-437306267"
+            href="https://www.linkedin.com/in/rimakhandev/"
             target="_blank"
             rel="noopener noreferrer"
             className="text-[#0A66C2] hover:scale-110 transition"
@@ -65,7 +65,7 @@ const Footer = () => {
             <FaLinkedin />
           </a>
           <a
-            href="https://www.facebook.com/mdajhar.mahmud.940"
+            href="https://www.facebook.com/profile.php?id=100073064973049"
             target="_blank"
             rel="noopener noreferrer"
             className="text-[#1877F2] hover:scale-110 transition"
@@ -75,7 +75,7 @@ const Footer = () => {
         </motion.div>
         <hr className="w-full border-t border-gray-300 opacity-30 my-4" />
         <p className="text-xs text-gray-500">
-          © {new Date().getFullYear()} Azhar Mahmud. All rights reserved.
+          © {new Date().getFullYear()} Rima khatun. All rights reserved.
         </p>
       </motion.div>
     </footer>

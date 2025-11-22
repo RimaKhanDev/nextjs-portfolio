@@ -4,18 +4,18 @@ import { motion } from "framer-motion";
 const educationList = [
   {
     degree: "Web Development Certification",
-    institution: "Programming Hero — Full Stack Web Development Bootcamp",
+    institution: "Creative IT Institute",
     year: "2024 - 2025",
   },
   {
     degree: "Diploma in Computer Science",
-    institution: "Narsingdi Polytechnic Institute",
-    year: "2021 - 2025",
+    institution: "BCMC College Of Engineering & Technology",
+    year: "2020 - 2024",
   },
   {
-    degree: "HSC (Science)",
-    institution: "Hazi Abed Ali College",
-    year: "2019 - 2021",
+    degree: "SSC (Science)",
+    institution: "Walfair Academy",
+   
   },
 ];
 
